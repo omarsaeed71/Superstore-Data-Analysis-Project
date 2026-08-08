@@ -30,5 +30,5 @@ This project focuses on analyzing Superstore sales data to understand business p
 - Omar Saeed
 - Ahmed Abbas
 - Mohamed Sameh
-- Abdelrahman Ahmed
+- Abdelrahman Mohamed
 - Yousef Saber
